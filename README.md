@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+### This is my study place !!
+
+I'm university student. 
+I just started studying about opensource, and I want to fill my profile with repository which i have studied. 💬
 
 <!--
 **heewon5602/heewon5602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
