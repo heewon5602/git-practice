@@ -1,0 +1,6 @@
+total 1.0K
+-rw-r--r-- 1 김희원 197121 636 Oct 16 00:54 README.md
+-rw-r--r-- 1 김희원 197121   0 Oct 16 00:57 file_list.txt
+total 2.0K
+-rw-r--r-- 1 김희원 197121 636 Oct 16 00:54 README.md
+-rw-r--r-- 1 김희원 197121 129 Oct 16 00:57 file_list.txt
